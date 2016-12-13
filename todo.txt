@@ -1,0 +1,28 @@
+goal of repo & code exercise…
+
+want experience writing inferences
+experience writing logic handlers
+want experience connecting to gardens
+(controller + provisioning)
+
+Launch
+GetHoroscope
+Help
+CancelIntent
+StopIntent
+exit
+StartOverIntent
+
+
+Start
+Ask for horoscope
+	Error
+	Horoscope
+Help
+End
+
+Intent & Utterances for each of the above
+
+Provision Alexa
+Stand up server
+Tunnel???
