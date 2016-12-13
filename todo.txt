@@ -5,13 +5,13 @@ experience writing logic handlers
 want experience connecting to gardens
 (controller + provisioning)
 
-Launch
-GetHoroscope
-Help
-CancelIntent
-StopIntent
-exit
-StartOverIntent
+Launch launch
+GetHoroscope 'getHoroscope'
+Help AMAZON.HelpIntent
+CancelIntent AMAZON.CancelIntent
+StopIntent AMAZON.StopIntent
+exit 'exit'
+StartOverIntent AMAZON.HelpIntent
 
 
 Start
